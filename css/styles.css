@@ -1,0 +1,13 @@
+.comm {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.secDiv {
+    color: white;
+    background-color: purple;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+}
